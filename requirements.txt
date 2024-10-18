@@ -1,0 +1,123 @@
+  a l t a i r = = 5 . 4 . 1 
+ 
+ a t t r s = = 2 4 . 2 . 0 
+ 
+ b l i n k e r = = 1 . 7 . 0 
+ 
+ c a c h e t o o l s = = 5 . 5 . 0 
+ 
+ c e r t i f i = = 2 0 2 4 . 8 . 3 0 
+ 
+ c h a r s e t - n o r m a l i z e r = = 3 . 4 . 0 
+ 
+ c l i c k = = 8 . 1 . 7 
+ 
+ c o l o r a m a = = 0 . 4 . 6 
+ 
+ c o n t o u r p y = = 1 . 3 . 0 
+ 
+ c y c l e r = = 0 . 1 2 . 1 
+ 
+ F l a s k = = 3 . 0 . 0 
+ 
+ F l a s k - C o r s = = 5 . 0 . 0 
+ 
+ f o n t t o o l s = = 4 . 5 4 . 1 
+ 
+ g i t d b = = 4 . 0 . 1 1 
+ 
+ G i t P y t h o n = = 3 . 1 . 4 3 
+ 
+ g u n i c o r n = = 2 3 . 0 . 0 
+ 
+ i d n a = = 3 . 1 0 
+ 
+ i t s d a n g e r o u s = = 2 . 1 . 2 
+ 
+ J i n j a 2 = = 3 . 1 . 2 
+ 
+ j o b l i b = = 1 . 3 . 2 
+ 
+ j s o n s c h e m a = = 4 . 2 3 . 0 
+ 
+ j s o n s c h e m a - s p e c i f i c a t i o n s = = 2 0 2 4 . 1 0 . 1 
+ 
+ k i w i s o l v e r = = 1 . 4 . 7 
+ 
+ m a r k d o w n - i t - p y = = 3 . 0 . 0 
+ 
+ M a r k u p S a f e = = 2 . 1 . 3 
+ 
+ m a t p l o t l i b = = 3 . 9 . 2 
+ 
+ m d u r l = = 0 . 1 . 2 
+ 
+ n a r w h a l s = = 1 . 9 . 3 
+ 
+ n l t k = = 3 . 9 . 1 
+ 
+ n u m p y = = 1 . 2 6 . 2 
+ 
+ o p e n c v - p y t h o n = = 4 . 1 0 . 0 . 8 4 
+ 
+ p a c k a g i n g = = 2 4 . 1 
+ 
+ p a n d a s = = 1 . 5 . 3 
+ 
+ p i l l o w = = 1 0 . 4 . 0 
+ 
+ p r o t o b u f = = 5 . 2 8 . 2 
+ 
+ p y a r r o w = = 1 7 . 0 . 0 
+ 
+ p y d e c k = = 0 . 9 . 1 
+ 
+ P y g m e n t s = = 2 . 1 8 . 0 
+ 
+ p y p a r s i n g = = 3 . 2 . 0 
+ 
+ p y t h o n - d a t e u t i l = = 2 . 8 . 2 
+ 
+ p y t z = = 2 0 2 3 . 3 . p o s t 1 
+ 
+ r e f e r e n c i n g = = 0 . 3 5 . 1 
+ 
+ r e g e x = = 2 0 2 4 . 9 . 1 1 
+ 
+ r e q u e s t s = = 2 . 3 2 . 3 
+ 
+ r i c h = = 1 3 . 9 . 2 
+ 
+ r p d s - p y = = 0 . 2 0 . 0 
+ 
+ s c i k i t - l e a r n = = 1 . 3 . 2 
+ 
+ s c i p y = = 1 . 1 1 . 4 
+ 
+ s i x = = 1 . 1 6 . 0 
+ 
+ s m m a p = = 5 . 0 . 1 
+ 
+ s t r e a m l i t = = 1 . 3 9 . 0 
+ 
+ t e n a c i t y = = 9 . 0 . 0 
+ 
+ t h r e a d p o o l c t l = = 3 . 2 . 0 
+ 
+ t o m l = = 0 . 1 0 . 2 
+ 
+ t o r n a d o = = 6 . 4 . 1 
+ 
+ t q d m = = 4 . 6 6 . 5 
+ 
+ t y p i n g _ e x t e n s i o n s = = 4 . 1 2 . 2 
+ 
+ t z d a t a = = 2 0 2 3 . 3 
+ 
+ u r l l i b 3 = = 2 . 2 . 3 
+ 
+ w a t c h d o g = = 5 . 0 . 3 
+ 
+ W e r k z e u g = = 3 . 0 . 1 
+ 
+ 
